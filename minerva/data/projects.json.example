@@ -1,0 +1,6 @@
+[{
+    "name": "Acme Test",
+    "safe_name": "Acme_Test_1",
+    "path": "/path/to/acme/project",
+    "db": "/path/to/acme/project/.db/project.sqlite"
+}]
